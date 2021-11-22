@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+
+.container{
+    border: 6px solid black;
+}
+.flex-item{
+    color: white;
+}
